@@ -1,6 +1,6 @@
 {
   "name": "@cs-cli/command",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "Bian2017 <bgl_cumt_zju@163.com>",
   "homepage": "https://github.com/Bian2017/cs-cli#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/Bian2017/cs-cli/issues"
   },
   "dependencies": {
-    "@cs-cli/log": "^1.0.1",
+    "@cs-cli/log": "^1.0.2",
     "colors": "^1.4.0",
     "semver": "^7.3.5"
   },
