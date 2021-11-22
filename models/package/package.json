@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@cs-cli/format-path": "^1.0.2",
-    "@cs-cli/get-npm-info": "file:../../utils/get-npm-info",
+    "@cs-cli/get-npm-info": "^1.0.2",
     "@cs-cli/utils": "^1.0.2",
     "axios": "^0.21.1",
     "fs-extra": "^9.1.0",
@@ -36,5 +36,5 @@
     "path-exists": "^4.0.0",
     "pkg-dir": "^5.0.0"
   },
-  "gitHead": "9086f6e37dc34063dabfb9ea700fd00e41703f15"
+  "gitHead": "7b9314542de2effb54405dbaf253649343d57742"
 }
