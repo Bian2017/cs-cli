@@ -1,0 +1,42 @@
+{
+  "name": "@cs-cli/core",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "<bgl_cumt_zju@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "bin": {
+    "cs-cli": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@cs-cli/exec": "^1.0.1",
+    "@cs-cli/init": "^1.0.1",
+    "@cs-cli/log": "^1.0.1",
+    "@cs-cli/utils": "^1.0.1",
+    "colors": "^1.4.0",
+    "commander": "^7.2.0",
+    "dotenv": "^8.2.0",
+    "import-local": "^3.0.2",
+    "minimist": "^1.2.5",
+    "npmlog": "^4.1.2",
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^2.0.0"
+  },
+  "gitHead": "9086f6e37dc34063dabfb9ea700fd00e41703f15"
+}
