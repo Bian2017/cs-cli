@@ -1,6 +1,6 @@
 {
   "name": "@cs-cli/init",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Bian2017 <bgl_cumt_zju@163.com>",
   "homepage": "https://github.com/Bian2017/cs-cli#readme",
@@ -27,11 +27,11 @@
     "url": "https://github.com/Bian2017/cs-cli/issues"
   },
   "dependencies": {
-    "@cs-cli/command": "^1.0.4",
-    "@cs-cli/log": "^1.0.4",
-    "@cs-cli/package": "^1.0.4",
-    "@cs-cli/request": "^1.0.4",
-    "@cs-cli/utils": "^1.0.4",
+    "@cs-cli/command": "^1.0.5",
+    "@cs-cli/log": "^1.0.5",
+    "@cs-cli/package": "^1.0.5",
+    "@cs-cli/request": "^1.0.5",
+    "@cs-cli/utils": "^1.0.5",
     "ejs": "^3.1.6",
     "fs-extra": "^9.1.0",
     "glob": "^7.1.7",

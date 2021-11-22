@@ -1,6 +1,6 @@
 {
   "name": "@cs-cli/package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Bian2017 <bgl_cumt_zju@163.com>",
   "homepage": "https://github.com/Bian2017/cs-cli#readme",
@@ -27,9 +27,9 @@
     "url": "https://github.com/Bian2017/cs-cli/issues"
   },
   "dependencies": {
-    "@cs-cli/format-path": "^1.0.4",
-    "@cs-cli/get-npm-info": "^1.0.4",
-    "@cs-cli/utils": "^1.0.4",
+    "@cs-cli/format-path": "^1.0.5",
+    "@cs-cli/get-npm-info": "^1.0.5",
+    "@cs-cli/utils": "^1.0.5",
     "axios": "^0.21.1",
     "fs-extra": "^9.1.0",
     "npminstall": "^4.11.0",
